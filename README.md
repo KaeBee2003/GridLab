@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="200">
+  <img src="assets/logo.png" width="2000">
 </p>
 
 <h1 align="center">🧩 GridLab</h1>
